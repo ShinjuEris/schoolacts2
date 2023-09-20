@@ -1,0 +1,12 @@
+Warning[205] C:\USERS\STUDENT\DESKTOP\PERDON\ACT2.ASM 7 : Found directive in column 1. (INCLUDE)
+Warning[205] C:\USERS\STUDENT\DESKTOP\PERDON\ACT2.ASM 8 : Found directive in column 1. (__CONFIG)
+Warning[205] C:\USERS\STUDENT\DESKTOP\PERDON\ACT2.ASM 10 : Found directive in column 1. (ORG)
+Warning[203] C:\USERS\STUDENT\DESKTOP\PERDON\ACT2.ASM 12 : Found opcode in column 1. (BSF)
+Warning[203] C:\USERS\STUDENT\DESKTOP\PERDON\ACT2.ASM 13 : Found opcode in column 1. (MOVLW)
+Warning[203] C:\USERS\STUDENT\DESKTOP\PERDON\ACT2.ASM 14 : Found opcode in column 1. (MOVWF)
+Message[302] C:\USERS\STUDENT\DESKTOP\PERDON\ACT2.ASM 14 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] C:\USERS\STUDENT\DESKTOP\PERDON\ACT2.ASM 15 : Found opcode in column 1. (MOVLW)
+Warning[203] C:\USERS\STUDENT\DESKTOP\PERDON\ACT2.ASM 16 : Found opcode in column 1. (MOVWF)
+Message[302] C:\USERS\STUDENT\DESKTOP\PERDON\ACT2.ASM 16 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] C:\USERS\STUDENT\DESKTOP\PERDON\ACT2.ASM 17 : Found opcode in column 1. (BCF)
+Warning[205] C:\USERS\STUDENT\DESKTOP\PERDON\ACT2.ASM 26 : Found directive in column 1. (END)
